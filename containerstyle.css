@@ -56,7 +56,7 @@ html, body{
 #box2{ 
     display:flex;
     background-color: #c1d42f; 
-    margin-left: 433.3333px;
+    margin-left: 432.3333px;
     margin-top: 30px;
 
 
@@ -66,7 +66,7 @@ html, body{
     display:flex;
     background-color: #5039d3; 
     order: 1;
-    margin-left: 433.333px;;
+    margin-left: 432.333px;;
     margin-bottom: 30px;
 
 } 
@@ -74,7 +74,7 @@ html, body{
 #box4{ 
     display:flex;
     background-color: #e03f3f; 
-    margin-left:433.333px;
+    margin-left:432.333px;
     margin-top: 30px;
 
 } 
@@ -83,7 +83,7 @@ html, body{
     display:flex;
     background-color: #d249cb; 
     order:1;
-    margin-left: 433.333px;
+    margin-left: 432.333px;
     margin-bottom: 30px;
 
 } 
