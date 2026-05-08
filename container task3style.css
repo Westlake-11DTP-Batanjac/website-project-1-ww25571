@@ -6,6 +6,11 @@ html, body{
 
 } 
 
+h1{
+   font-family: Arial, sans-serif; 
+   font-size: 30px;
+}
+
 .page_container{ 
 
     display: flex;
@@ -87,7 +92,7 @@ html, body{
 
 #box6{ 
 
-    background-color: #eb9ee7; 
+    background-color: #bb72eb; 
     width: 100%;
     order: 1;
     height: 250px;
@@ -102,4 +107,13 @@ html, body{
     margin-top: 25px;
     margin-bottom: 25px;
     margin-left: 50px;
+}
+
+#media{
+     background-color: grey;
+    width:800px;
+    height: 70px;
+    margin-top: 150px;
+    
+    margin-left: -540px;
 }
